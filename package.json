@@ -1,0 +1,8 @@
+	{
+	"name": "com.fuzzblob.testPackage",
+	"displayName": "a simple test package",
+	"version": "0.0.1",
+	"unity": "2017.0",
+	"description": "TODO",
+	"dependencies": {}
+}
