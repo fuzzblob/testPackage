@@ -1,8 +1,16 @@
-	{
+{
 	"name": "com.fuzzblob.testPackage",
-	"displayName": "a simple test package",
-	"version": "0.0.1",
-	"unity": "2017.0",
-	"description": "TODO",
-	"dependencies": {}
+	"displayName": "Test Package",
+	"description": "",
+	"version": "0.0.0",
+	"unity": "2018.3",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fuzzblob/testPackage.git"
+	},
+	"src": "Assets/fuzzblob/testPackage",
+	"author": "fuzzblob <moona@tammik.ca> (https://github.com/fuzzblob)",
+	"dependencies": {
+	}
 }
