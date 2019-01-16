@@ -1,7 +1,8 @@
 {
 	"name": "com.fuzzblob.upm-testpackage",
 	"displayName": "UPM Test Package",
-	"description": "",
+	"description": "A simple example package for how to use git repositories in Unities package manager",
+	"author": "Maris Tammik",
 	"version": "0.0.4",
 	"unity": "2018.3",
 	"license": "MIT",
