@@ -8,11 +8,13 @@ Find the **manifest.json** file in the Packages folder of your project. Edit it 
 
     {
       "dependencies": {
-        "com.fuzzblob.upm-testpackage": "https://github.com/fuzzblob/upm-testpackage.git#0.0.3",
+        "com.fuzzblob.upm-testpackage": "https://github.com/fuzzblob/upm-testpackage.git#0.0.4",
         ...
       },
     }
 
 Back in Unity, the package will be downloaded and imported.
+
+To ensure that it's working correctly you can select `UPM TestPackage/Print message` from the menu.
 
 For a better workflow with **git** hosted packages it is reccomended you use the [UPM Git Extension](<https://github.com/mob-sakai/UpmGitExtension>)
