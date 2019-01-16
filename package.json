@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/fuzzblob/testPackage.git"
+		"url": "git+https://github.com/fuzzblob/upm-testpackage.git"
 	},
 	"src": "Assets/fuzzblob/testPackage",
 	"author": "fuzzblob <moona@tammik.ca> (https://github.com/fuzzblob)",
