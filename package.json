@@ -2,7 +2,7 @@
 	"name": "com.fuzzblob.upm-testpackage",
 	"displayName": "UPM Test Package",
 	"description": "",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"unity": "2018.3",
 	"license": "MIT",
 	"repository": {
