@@ -8,7 +8,7 @@ Find the **manifest.json** file in the Packages folder of your project. Edit it 
 
     {
       "dependencies": {
-        "com.fuzzblob.upm-testpackage": "https://github.com/fuzzblob/upm-testpackage.git#0.0.2",
+        "com.fuzzblob.upm-testpackage": "https://github.com/fuzzblob/upm-testpackage.git#0.0.3",
         ...
       },
     }
