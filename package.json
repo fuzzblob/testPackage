@@ -10,7 +10,6 @@
 		"url": "git+https://github.com/fuzzblob/upm-testpackage.git"
 	},
 	"src": "Assets/fuzzblob/upm-testpackage",
-	"author": "fuzzblob <moona@tammik.ca> (https://github.com/fuzzblob)",
 	"dependencies": {
 	}
 }
