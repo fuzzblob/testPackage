@@ -1,15 +1,15 @@
 {
 	"name": "com.fuzzblob.upm-testpackage",
-	"displayName": "Test Package",
+	"displayName": "UPM Test Package",
 	"description": "",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"unity": "2018.3",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/fuzzblob/upm-testpackage.git"
 	},
-	"src": "Assets/fuzzblob/testPackage",
+	"src": "Assets/fuzzblob/upm-testpackage",
 	"author": "fuzzblob <moona@tammik.ca> (https://github.com/fuzzblob)",
 	"dependencies": {
 	}
