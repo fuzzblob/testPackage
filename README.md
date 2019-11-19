@@ -4,6 +4,12 @@ A simple example package for the Unity Package Manager (UPM) version 2018.3 and 
 
 ## Installation
 
+### Unity 2019.3+
+
+Open the package manager window, click thge **+** icon in the top left, then select *Add package from git URL* and paste the URL of this repository.
+
+### Unity 2019.2 and below
+
 Find the **manifest.json** file in the Packages folder of your project. Edit it to look like this:
 
     {
